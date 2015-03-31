@@ -1,0 +1,48 @@
+SELECT * FROM "doExcludedAccount";
+                                               "P3PF"            ON ("P3PF"."P3REF" = "SAPF"."SADRF")
+
+
+
+
+                                                     CENT41202H032132
+
+                        SELECT * FROM t_equ_p3pf WHERE "P3REF"='CENT41202H032132'
+
+                        SELECT * from  t_equ_sapf WHERE  "SAVFR" >= to_Date('01-01-2015','dd-mm-yyyy')  AND "SAVFR" <= To_Date('31-01-2015','dd-mm-yyyy') and "SACCY"='USD' AND ROWNUM<100;
+
+                                           2014-11-26	USD	100	3,3546                              3,3519
+
+
+                      60635,61504
+                                       t_equ_sapf_2014                           Select    1853280 /100 *3.3546 FROM dual                 1853280
+                                                                                  Select    1853280 /100 * 3.3519 FROM dual
+
+                                                                                      SELECT 60635.61504  *100 /1853280 FROM dual
+
+                                                                                      SELECT (60635.61504  *100) /1853280 FROM dual
+
+
+                                                                                      SELECT 60635.61504* ( 100 /1853280) FROM dual
+
+
+                                                                                       Select    30000 /100 *3.3546 FROM dual
+
+                                                                                            SELECT 981.54* ( 100 /30000) FROM dual
+          3,2718
+
+                                                                                    30000      981,54
+                                                                                      60635
+
+                                                MERGE INTO T_EQU_SAPF sapf USING (
+        SELECT SAPOD, SABRNM, SAPBR, SAPSQ, (SAAMA / C8PWD * C8SPT) SAAMA_PLN
+        FROM T_EQU_SAPF
+        INNER JOIN T_EQU_HC8PF ON HCDTE = SAPOD AND C8CCY = SACCY
+        WHERE  SAAMA_PLN IS NULL AND  "SAVFR" >= (SELECT To_Date('01-12-2014','dd-mm-yyyy') FROM dual) AND "SAVFR" <= (SELECT To_Date('31-12-2014','dd-mm-yyyy') FROM dual)
+    ) "Data" ON (sapf.SAPOD = "Data".SAPOD and sapf.SABRNM = "Data".SABRNM and sapf.SAPBR = "Data".SAPBR and sapf.SAPSQ = "Data".SAPSQ)
+    WHEN MATCHED THEN
+        UPDATE SET SAAMA_PLN = "Data".SAAMA_PLN;
+
+
+
+
+                                                                 1853280
