@@ -1,4 +1,4 @@
-<specification pmts-version="6" author="Darek" description="" www="" created-date="2017-09-03" created-time="18:40" modified-date="2017-09-03" modified-time="19:25" column1-name="Polski" column1-lang="pl" column2-name="Angielski" column2-lang="en"/>
+<specification pmts-version="6" author="Darek" description="" www="" created-date="2017-09-03" created-time="18:40" modified-date="2017-09-03" modified-time="19:41" column1-name="Polski" column1-lang="pl" column2-name="Angielski" column2-lang="en"/>
 <record type="vcb" column1="Wrazliwy,podatny na krytyke" column2="Vulnerable"/>
 <record type="vcb" column1="Sklonny do" column2="Inclined to"/>
 <record type="vcb" column1="Wtajemniczony w" column2="Privy to"/>
@@ -57,7 +57,7 @@
 <record type="vcb" column1="Stado" column2="String"/>
 <record type="vcb" column1="Kucyk do gry w polo" column2="Polo pony"/>
 <record type="vcb" column1="Przemieszczac sie" column2="Drift"/>
-<record type="vcb" column1="Wistfully" column2="Melancholijnie,tesknie"/>
+<record type="vcb" column1="Melancholijnie,tesknie" column2="Wistfully"/>
 <record type="vcb" column1="Niepokoj" column2="Turbulence"/>
 <record type="vcb" column1="Nieodwolalny, nie do odzyskania" column2="Irrecoverable"/>
 <record type="vcb" column1="Zegar sloneczny" column2="Sun-dial"/>
@@ -134,7 +134,7 @@
 <record type="vcb" column1="Skrzypienie" column2="Crunch"/>
 <record type="vcb" column1="Badawczo" column2="Searchingly"/>
 <record type="vcb" column1="Slowik" column2="Nightingale"/>
-<record type="vcb" column1="Arogancki,odwazny" column2="Hrdy"/>
+<record type="vcb" column1="Arogancki,odwazny" column2="Hardy"/>
 <record type="vcb" column1="Przenikliwy,ostry" column2="Shrill"/>
 <record type="vcb" column1="Przechadzac sie" column2="Stroll"/>
 <record type="vcb" column1="Czuwanie" column2="Vigil"/>
