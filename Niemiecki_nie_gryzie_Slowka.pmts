@@ -1,0 +1,166 @@
+<specification pmts-version="6" author="Darek" description="" www="" created-date="2017-08-27" created-time="23:23" modified-date="2017-08-28" modified-time="18:14" column1-name="Polski" column1-lang="pl" column2-name="Niemiecki" column2-lang="de"/>
+<record type="vcb" column1="Małpa" column2="Der Affe"/>
+<record type="vcb" column1="Jabłko" column2="Der Apfel"/>
+<record type="vcb" column1="Gniew" column2="Der Aerge"/>
+<record type="vcb" column1="Sprzatac" column2="Aufraeumen"/>
+<record type="vcb" column1="Wyrazac" column2="Aeussern"/>
+<record type="vcb" column1="Smaochod" column2="Das Auto"/>
+<record type="vcb" column1="Awokado" column2="Die Avocado"/>
+<record type="vcb" column1="Kolej" column2="Die Bahn"/>
+<record type="vcb" column1="Niedzwiedz" column2="Der Baer"/>
+<record type="vcb" column1="Sprawozdanie" column2="Der Bericht"/>
+<record type="vcb" column1="Odwiedzac" column2="Besuchen"/>
+<record type="vcb" column1="Modlic sie" column2="Beten"/>
+<record type="vcb" column1="Ekran" column2="Der Bildschrim"/>
+<record type="vcb" column1="Jestem" column2="Bin"/>
+<record type="vcb" column1="Prosic" column2="Bitten"/>
+<record type="vcb" column1="Zły" column2="Boese"/>
+<record type="vcb" column1="List" column2="Der Brief"/>
+<record type="vcb" column1="Brat" column2="Der Bruder"/>
+<record type="vcb" column1="Ksiazka" column2="Das Buch"/>
+<record type="vcb" column1="Szczotka" column2="Die Buerste"/>
+<record type="vcb" column1="Chirurg" column2="Der Chirurg"/>
+<record type="vcb" column1="Chor" column2="Der Chor"/>
+<record type="vcb" column1="Dziekowac" column2="Danken"/>
+<record type="vcb" column1="Sufit" column2="Die Decke"/>
+<record type="vcb" column1="Twój" column2="Dein"/>
+<record type="vcb" column1="Niemiecki" column2="Deutsch"/>
+<record type="vcb" column1="Tobie" column2="Dir"/>
+<record type="vcb" column1="Trzy" column2="Drei"/>
+<record type="vcb" column1="Łatwy,prosty" column2="Einfach"/>
+<record type="vcb" column1="Egzystowac,istniec" column2="Existieren"/>
+<record type="vcb" column1="Jechac" column2="Fahren"/>
+<record type="vcb" column1="Bilet" column2="Die Fahrkarte"/>
+<record type="vcb" column1="Rower" column2="Das Fahrrad"/>
+<record type="vcb" column1="Scinac drzewo" column2="Faellen"/>
+<record type="vcb" column1="Ogien" column2="Das Feuer"/>
+<record type="vcb" column1="Ryba" column2="Der Fisch"/>
+<record type="vcb" column1="Piatek" column2="Der Freitag"/>
+<record type="vcb" column1="Czuc" column2="Fuehlen"/>
+<record type="vcb" column1="Napełniac" column2="Fuellen"/>
+<record type="vcb" column1="Widelec" column2="Die Gabel"/>
+<record type="vcb" column1="Zółty" column2="Gelb"/>
+<record type="vcb" column1="Wczoraj" column2="Gestern"/>
+<record type="vcb" column1="Szklanka" column2="Das glas"/>
+<record type="vcb" column1="Duzo" column2="Gross"/>
+<record type="vcb" column1="Miec" column2="Haben"/>
+<record type="vcb" column1="Gaj" column2="Der Hain"/>
+<record type="vcb" column1="Dom" column2="Das Haus"/>
+<record type="vcb" column1="Wiedzma" column2="Die Hexe"/>
+<record type="vcb" column1="Wysoki" column2="Hoch"/>
+<record type="vcb" column1="Kurtka" column2="Die Jacke"/>
+<record type="vcb" column1="Rok" column2="Das Jahr"/>
+<record type="vcb" column1="Styczen" column2="Der Januar"/>
+<record type="vcb" column1="Teraz" column2="Jetzt"/>
+<record type="vcb" column1="Młody" column2="Jung"/>
+<record type="vcb" column1="Chłopiec" column2="Der Jungen"/>
+<record type="vcb" column1="Zimny" column2="Kalt"/>
+<record type="vcb" column1="Zimno" column2="Die Kaelte"/>
+<record type="vcb" column1="Czesac" column2="Kaemmen"/>
+<record type="vcb" column1="Walczyc" column2="Kaempfen"/>
+<record type="vcb" column1="Ser" column2="Der Kaese"/>
+<record type="vcb" column1="Kot" column2="Die Katze"/>
+<record type="vcb" column1="Prawie nie" column2="Kaum"/>
+<record type="vcb" column1="Klasa" column2="Die Klasse"/>
+<record type="vcb" column1="Klaskac" column2="Klatschen"/>
+<record type="vcb" column1="Pianino" column2="Das Klavier"/>
+<record type="vcb" column1="Król" column2="Der Koenig"/>
+<record type="vcb" column1="Móc" column2="Koennen"/>
+<record type="vcb" column1="Głowa" column2="Der Kopf"/>
+<record type="vcb" column1="Kosz" column2="Der Korb"/>
+<record type="vcb" column1="Chory" column2="Krank"/>
+<record type="vcb" column1="Powoli" column2="Langsam"/>
+<record type="vcb" column1="Brzmiec" column2="Lauten"/>
+<record type="vcb" column1="Zyc" column2="Leben"/>
+<record type="vcb" column1="Skóra" column2="Das Leder"/>
+<record type="vcb" column1="Kłasc" column2="Legen"/>
+<record type="vcb" column1="Kierowac" column2="Leiten"/>
+<record type="vcb" column1="Czytac" column2="Lesen"/>
+<record type="vcb" column1="Kochac" column2="Lieben"/>
+<record type="vcb" column1="Piosenka" column2="Das Lied"/>
+<record type="vcb" column1="Leżec" column2="Liegen"/>
+<record type="vcb" column1="Łyzka" column2="Der Loeffel"/>
+<record type="vcb" column1="Gasic" column2="Loeschen"/>
+<record type="vcb" column1="Rozwiazywac" column2="Loesen"/>
+<record type="vcb" column1="Luka" column2="Die Luecke"/>
+<record type="vcb" column1="Klamstwo" column2="Die Luege"/>
+<record type="vcb" column1="Robic" column2="Machen"/>
+<record type="vcb" column1="Dziewczyna" column2="Das Moedchen"/>
+<record type="vcb" column1="Maj" column2="Der Mai"/>
+<record type="vcb" column1="Mysz" column2="Der Maus"/>
+<record type="vcb" column1="Morze" column2="Das Meer"/>
+<record type="vcb" column1="Czlowiek" column2="Der Mensch"/>
+<record type="vcb" column1="Dziewiec" column2="Neun"/>
+<record type="vcb" column1="Nie" column2="Nicht"/>
+<record type="vcb" column1="Nic" column2="Nichts"/>
+<record type="vcb" column1="Notatnik" column2="Das Notizbuch"/>
+<record type="vcb" column1="Nowela" column2="Die Novelle"/>
+<record type="vcb" column1="Piec" column2="Der Ofen"/>
+<record type="vcb" column1="Otwarty" column2="Offen"/>
+<record type="vcb" column1="Otwierac" column2="Oeffnen"/>
+<record type="vcb" column1="Topola" column2="Die Pappel"/>
+<record type="vcb" column1="Sliwka" column2="Die Pflaume"/>
+<record type="vcb" column1="Funt" column2="Das Pfund"/>
+<record type="vcb" column1="Filozofia" column2="Die Philosophie"/>
+<record type="vcb" column1="Fotografia" column2="Das Photo"/>
+<record type="vcb" column1="Fizyka" column2="Die Physik"/>
+<record type="vcb" column1="Bzdura" column2="Der Quatsch"/>
+<record type="vcb" column1="Zrodlo" column2="Die Quelle"/>
+<record type="vcb" column1="Kwiz" column2="Das Quiz"/>
+<record type="vcb" column1="Zagadka" column2="Das Raetsel"/>
+<record type="vcb" column1="Rachowac" column2="Rechnen"/>
+<record type="vcb" column1="Mowic" column2="Sagen"/>
+<record type="vcb" column1="Czekolada" column2="Die Schokolade"/>
+<record type="vcb" column1="Ładny" column2="Schoen"/>
+<record type="vcb" column1="Szafa" column2="Der Schrank"/>
+<record type="vcb" column1="Pisac" column2="Schraiben"/>
+<record type="vcb" column1="Szkola" column2="Die Schule"/>
+<record type="vcb" column1="Siostra" column2="Die Schwester"/>
+<record type="vcb" column1="Szesc" column2="Sechs"/>
+<record type="vcb" column1="Widziec" column2="Sehen"/>
+<record type="vcb" column1="Byc" column2="Sein"/>
+<record type="vcb" column1="Spiewac" column2="Singen"/>
+<record type="vcb" column1="Miec pewnosc" column2="Sollen"/>
+<record type="vcb" column1="Slonce" column2="Die Sonne"/>
+<record type="vcb" column1="Oszczedzac" column2="Die Sparen"/>
+<record type="vcb" column1="Pozno" column2="Spaet"/>
+<record type="vcb" column1="Grac" column2="Spielen"/>
+<record type="vcb" column1="Mowic" column2="Sprechen"/>
+<record type="vcb" column1="Panstwo" column2="Der Staat"/>
+<record type="vcb" column1="Miasto" column2="Die Stadt"/>
+<record type="vcb" column1="Silny" column2="Stark"/>
+<record type="vcb" column1="Stac" column2="Stehen"/>
+<record type="vcb" column1="Ulica" column2="Die Strasse"/>
+<record type="vcb" column1="Krzeslo" column2="Der Stuhl"/>
+<record type="vcb" column1="Slodki" column2="Suess"/>
+<record type="vcb" column1="Dzien" column2="Der Tag"/>
+<record type="vcb" column1="Herbata" column2="Der Tee"/>
+<record type="vcb" column1="Drogi" column2="Teuer"/>
+<record type="vcb" column1="Tekst" column2="Der Text"/>
+<record type="vcb" column1="Teatr" column2="Das Theater"/>
+<record type="vcb" column1="Temat" column2="Das Thema"/>
+<record type="vcb" column1="Drzwi" column2="Die Tuer"/>
+<record type="vcb" column1="Cwiczyc" column2="Ueben"/>
+<record type="vcb" column1="Zegarek" column2="Die Uehr"/>
+<record type="vcb" column1="Urlop" column2="Der Urlaub"/>
+<record type="vcb" column1="Wazon" column2="Die Vase"/>
+<record type="vcb" column1="Ojciec" column2="Der Vater"/>
+<record type="vcb" column1="Krewny" column2="Der Verwandte"/>
+<record type="vcb" column1="Kuzyn" column2="Der Vetter"/>
+<record type="vcb" column1="Może" column2="Vielleicht"/>
+<record type="vcb" column1="Czuwac" column2="Wachen"/>
+<record type="vcb" column1="Rosnac" column2="Wachsen"/>
+<record type="vcb" column1="Sciana" column2="Die Wand"/>
+<record type="vcb" column1="Co" column2="Was"/>
+<record type="vcb" column1="Budzic" column2="Wecken"/>
+<record type="vcb" column1="Byc nieobecnym" column2="Weg sein"/>
+<record type="vcb" column1="Droga" column2="Der Weg"/>
+<record type="vcb" column1="Swieta b.nArodzenia" column2="Das Weihnachten"/>
+<record type="vcb" column1="Bialy" column2="Weiss"/>
+<record type="vcb" column1="Ktroa" column2="Welche"/>
+<record type="vcb" column1="Swiat" column2="Die Welte"/>
+<record type="vcb" column1="Wazny" column2="Wichtig"/>
+<record type="vcb" column1="My" column2="Wir"/>
+<record type="vcb" column1="Zab" column2="Der Zahn"/>
+<record type="vcb" column1="Dziesiec" column2="Zehn"/>
+<record type="vcb" column1="Czas" column2="Die Zeit"/>
