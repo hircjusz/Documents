@@ -1,4 +1,4 @@
-<specification pmts-version="6" author="Darek" description="" www="" created-date="2017-09-03" created-time="18:40" modified-date="2017-09-03" modified-time="19:05" column1-name="Polski" column1-lang="pl" column2-name="Angielski" column2-lang="en"/>
+<specification pmts-version="6" author="Darek" description="" www="" created-date="2017-09-03" created-time="18:40" modified-date="2017-09-03" modified-time="19:25" column1-name="Polski" column1-lang="pl" column2-name="Angielski" column2-lang="en"/>
 <record type="vcb" column1="Wrazliwy,podatny na krytyke" column2="Vulnerable"/>
 <record type="vcb" column1="Sklonny do" column2="Inclined to"/>
 <record type="vcb" column1="Wtajemniczony w" column2="Privy to"/>
@@ -88,3 +88,75 @@
 <record type="vcb" column1="Niewczesny, niezwiazany z tematem" column2="Irrelevant"/>
 <record type="vcb" column1="Niedostrzegalnie, niezauwazalnie" column2="Imperceptibly"/>
 <record type="vcb" column1="Chwiac sie" column2="Totter"/>
+<record type="vcb" column1="Krazyc" column2="Hover"/>
+<record type="vcb" column1="Spustoszaly" column2="Desolate"/>
+<record type="vcb" column1="Tylne kolo" column2="Rear wheel"/>
+<record type="vcb" column1="Lament" column2="Wail"/>
+<record type="vcb" column1="Bez zwiazku z tematem" column2="Irrelevantly"/>
+<record type="vcb" column1="Wypowiadac,wymawiac" column2="Utter"/>
+<record type="vcb" column1="Zreczny" column2="Deft"/>
+<record type="vcb" column1="Odparowywwac,replikowac" column2="Retort"/>
+<record type="vcb" column1="Spizarnia" column2="Pantry"/>
+<record type="vcb" column1="Z niedowierzaniem" column2="Increduluosly"/>
+<record type="vcb" column1="Wyprostowany" column2="Erect"/>
+<record type="vcb" column1="Postawa" column2="Carriage"/>
+<record type="vcb" column1="Podkreslac,akcentowac" column2="Accentuate"/>
+<record type="vcb" column1="Wzajemny,obopólny" column2="Reciprocal"/>
+<record type="vcb" column1="Mizerny,blady" column2="Wan"/>
+<record type="vcb" column1="Niezadowolony" column2="Discontented"/>
+<record type="vcb" column1="Przyjsc komus na mysl" column2="Occur to"/>
+<record type="vcb" column1="Wbijac kij,klin,wciskac" column2="Wedge"/>
+<record type="vcb" column1="Wyprowadzac kogos sila" column2="Compel sb from"/>
+<record type="vcb" column1="Pionek" column2="Checker"/>
+<record type="vcb" column1="Smukle,strzeliscie" column2="Slenderly"/>
+<record type="vcb" column1="Omdlewajaco,apatycznie" column2="Languidly"/>
+<record type="vcb" column1="Migotac" column2="Flicker"/>
+<record type="vcb" column1="Zgasic cos palcami" column2="Snap out"/>
+<record type="vcb" column1="Posiniaczony" column2="Black and blue"/>
+<record type="vcb" column1="Niezdarny ciezki" column2="Hulking"/>
+<record type="vcb" column1="Okaz" column2="Specimen"/>
+<record type="vcb" column1="Dyskretnie" column2="Unobtrusively"/>
+<record type="vcb" column1="Zartobliwy" column2="Bantering"/>
+<record type="vcb" column1="Zwykly,calkowity" column2="Sheer"/>
+<record type="vcb" column1="Calkowicie,kompletnie" column2="Utterly"/>
+<record type="vcb" column1="Zatopiony" column2="Submerged"/>
+<record type="vcb" column1="Mrugac" column2="Wink"/>
+<record type="vcb" column1="Dziko" column2="Ferociously"/>
+<record type="vcb" column1="Goracy" column2="Fervent"/>
+<record type="vcb" column1="Nieskonczenie maly, mikroskopijny" column2="Infinitesimal"/>
+<record type="vcb" column1="Zadowoleniez siebie" column2="Complacency"/>
+<record type="vcb" column1="Lokaj" column2="Buttler"/>
+<record type="vcb" column1="Improwizowac" column2="Extemporize"/>
+<record type="vcb" column1="Pozbawiony czegosc" column2="Devoid of"/>
+<record type="vcb" column1="Na skraju" column2="On the verge of"/>
+<record type="vcb" column1="Spojnosc logika" column2="Coherence"/>
+<record type="vcb" column1="Obojotnie, bez wyrazu" column2="Blankly"/>
+<record type="vcb" column1="Skrzypienie" column2="Crunch"/>
+<record type="vcb" column1="Badawczo" column2="Searchingly"/>
+<record type="vcb" column1="Slowik" column2="Nightingale"/>
+<record type="vcb" column1="Arogancki,odwazny" column2="Hrdy"/>
+<record type="vcb" column1="Przenikliwy,ostry" column2="Shrill"/>
+<record type="vcb" column1="Przechadzac sie" column2="Stroll"/>
+<record type="vcb" column1="Czuwanie" column2="Vigil"/>
+<record type="vcb" column1="Namacalny,dotykalny" column2="Tangible"/>
+<record type="vcb" column1="Wiklinowy" column2="Wicker"/>
+<record type="vcb" column1="Uspokajajacy" column2="Sedative"/>
+<record type="vcb" column1="Slabo" column2="Feebly"/>
+<record type="vcb" column1="Eter" column2="Ether"/>
+<record type="vcb" column1="Przyczynajacy sie do czegos" column2="Contributory"/>
+<record type="vcb" column1="Usmieszek" column2="Smirk"/>
+<record type="vcb" column1="Niedmieniony" column2="Uninflected"/>
+<record type="vcb" column1="Niebawem" column2="Anon"/>
+<record type="vcb" column1="Wrzucac na siebie" column2="Fling sb together"/>
+<record type="vcb" column1="Niespodziewanie kogos najsc" column2="Creep up on sb"/>
+<record type="vcb" column1="Stanowczo" column2="Peremptorily"/>
+<record type="vcb" column1="Potwarz" column2="Libel"/>
+<record type="vcb" column1="Zapowiedzi" column2="Banns"/>
+<record type="vcb" column1="Bawic sie mysla" column2="Nibble"/>
+<record type="vcb" column1="Nieaktualny" column2="Stale"/>
+<record type="vcb" column1="Stanowczy" column2="Peremptory"/>
+<record type="vcb" column1="Zajazd" column2="Roadhouse"/>
+<record type="vcb" column1="Walec do trawy" column2="Grass roller"/>
+<record type="vcb" column1="Ryk" column2="Bellow"/>
+<record type="vcb" column1="Chwiac sie" column2="Waver"/>
+<record type="vcb" column1="Mimowolnie,nieumyslnie" column2="Involuntarily"/>
